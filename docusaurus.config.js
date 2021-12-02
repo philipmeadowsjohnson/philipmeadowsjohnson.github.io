@@ -15,6 +15,7 @@ module.exports = {
   organizationName: 'philipmeadowsjohnson', // Usually your GitHub org/user name.
   projectName: 'philipmeadowsjohnson.github.io', // Usually your repo name.
   themeConfig: {
+    colorMode: { defaultMode: 'dark', respectPrefersColorScheme: false },
     navbar: { title: 'PhilipMeadowsJohnson', logo: { alt: 'InternAloha', src: 'img/internaloha-logo.png', },
       items: [
         { to: 'docs/overview/motivation', activeBasePath: 'docs', label: 'Documentation', position: 'right', },
