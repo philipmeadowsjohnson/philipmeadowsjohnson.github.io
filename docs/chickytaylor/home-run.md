@@ -1,0 +1,48 @@
+---
+title: Chicky Taylor and the Home Run
+hide_table_of_contents: true
+---
+
+When Chicky Taylor and I were small, we used to like to play sports together. In the fall, we would play football. Usually we would go to a field down the street where we could kick and throw the ball as far as we wanted. In the winter, Chicky Taylor's dad often set up an ice rink is his back yard so we could skate around and play hockey.
+
+Making the ice rink was often as fun as actually skating on it. First, you made the outline of the rink with long pieces of wood. Then, you shoveled the snow off the grass inside the rink. Then, you got out a hose and watered down the area in the evening when it was as cold as possible so that the water would freeze quickly. If you left the hose outside, you had to make sure that you got all of the water out of the hose so that it wouldn't freeze inside the hose. Of course, Chicky Taylor's garage was heated, so we would just drag the hose inside the garage between waterings. If you were lucky and the weather stayed cold, in two or three days you would have enough of a rink to start skating on.
+
+In the summer, though, our favorite sport to play was baseball. Back in those days, we were still small enough that it was fun to play baseball in Chicky's back yard. One of us would pitch the ball to the other, and if the other hit it, then you'd run around the bases and try to not be tagged out. First base was the corner of the garage, second base was a big maple tree near the fence, third base was a bush, and home plate was a few leaves that we'd pile together at the end of the yard opposite the maple tree.
+
+Chicky Taylor and I would usually imagine ourselves to be players for the Detroit Tigers. Depending upon who was doing well recently, we might pick Denny McClain (a pitcher), Bill Freehan (catcher), or Norm Cash (first baseman). But our favorite Tigers to pretend to be were both outfielders: Chicky favored Al Kaline, while I liked Willie Horton.
+
+If the ball ever escaped from the backyard, it was usually from a foul ball that went backwards over the fence behind us, which was just chest high. In that case, we could climb over the fence and run into the neighbor's yard to get it back. On the rare times when one of us connected with the ball solidly, it would usually slam into the taller fence at the other end of the yard, or else richochet off the maple tree.
+
+Well. I remember that this particular day was a Sunday, and I remember that because my Mother and Father were entertaining a distinguished elderly lady at our house after church, and everyone was dressed nicely.
+
+To really understand what was about to happen, you have to know that if you stood at home plate looking out over the baseball field of Chicky's back yard, then just over the fence near the maple tree was Ridge Road, and just across Ridge Road was our house, and the part of our house directly across from Chicky Taylor's backyard was our family room, in which my Mother and Father were entertaining the distinguished elderly lady. The lady was sitting in a chair right next to a window that looked out over Ridge Road and Chicky Taylor's back yard.
+
+Chicky and I knew nothing of my parents' entertainment situation. At that moment, we were deeply engaged in a make-believe Tiger baseball game, probably the seventh game of a World Series, probably the bottom of the ninth, probably with two outs, and two strikes, and an imaginary Tiger Stadium around us roaring with anticipation.
+
+I am pretty sure I happened to be batting when Chicky threw me a pitch and I made a perfect (for a nine year old) swing and connection with the ball. But what happened next went way beyond my best baseball batting abilities.
+
+The ball arced high over Chicky's head, and he turned around to watch it head into the branches of the maple tree. Normally, whenever one of us hit the ball like this, it would strike a branch, pinball around making thudding noises, and finally fall out of the tree and to the ground. With luck, the pitcher could actually run over and catch the ball as it fell out of tree and get the batter out.
+
+This time, the ball somehow sailed right through the tree without so much as touching a leaf. There was no thudding sound, no branches swaying, and no ball falling back into the yard. There was complete silence, until a second later when we heard a "thwack" sound as the baseball hit the street between our two houses.
+
+Now, we were pretty lucky that there were no cars passing by at that moment, because we could have caused an accident, or at least some damage.
+
+The next thing that happened is that the ball, instead of bouncing onto the grass of my front yard, landed on the sidewalk on my house's side of the street. This was yet another incredible stroke of luck. If the ball had landed anywhere on our front lawn, it would have just died there, perhaps rolling into the bushes next to our house.
+
+Instead, because it landed on the concrete sidewalk, it took its last, fatal, final hop, which caused it to crash through the window of our family room where my parents and, especially, the elderly lady were talking together.
+
+I can only imagine what a scene that must have been. I suppose they were serving tea and cookies, and talking about such adult matters as the upcoming garden show, or an article in the Sunday paper, or who had just moved into or out of the neighborhood. At any rate, whatever they were talking about was rudely interrupted by shattered glass flying into the room, accompanied by a baseball rolling to a gentle stop underneath the coffee table.
+
+Back in Tiger Stadium, the sounds of the roaring crowd came to an immediate silence, and my commencement of a triumphant stroll around the bases was cut tragically short by the sound of breaking glass across the street. At first, this seemed so unbelievable that we thought it might be an unconnected incident. Chicky and I ran to the gate, opened it, and peered across the street at the hole in my house's family room window, and the conspicuous lack of a baseball anywhere in sight.
+
+This was not a situation in which one could say that one was doing "nothing". This was by far the worst property damage that I had ever accomplished in my nine years of life. I had no frame of reference for what the punishment for this offense would be. I had been spanked hard for what seemed to be far less serious offenses. Perhaps I would never be able to play with Chicky Taylor again for the rest of my life?
+
+I trudged across the street to find out what terrible punishment was in store for me. As I entered the family room, my Mother was already sweeping up the glass, and the elderly lady was sitting in a different chair, one a little further removed from the window.
+
+My parents asked me what happened. In a small, quavering voice, I told them that Chicky Taylor and I were playing baseball in his backyard, and I hit it really good and for some reason it didn't get caught up in the maple tree.
+
+My parents looked at each other. Then my Father said, quite calmly, "Well, I guess it's about time you learned how to replace a pane of glass in a window. Do you want to see if Chicky wants to help us?"
+
+It took a little while for it to sink in that I was not going to be punished in any way. Instead, we measured the window, got in the car, drove to the hardware store, got a pane of glass cut to the right dimensions, came home, and put the new pane of glass into the window. My Father probably even bought us Bun Bars at the hardware store, because he always liked to do that.
+
+And that's the story of Chicky Taylor and the Home Run.
