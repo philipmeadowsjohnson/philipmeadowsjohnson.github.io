@@ -1,6 +1,8 @@
 module.exports = {
-  someSidebar: {
-    'Chicky Taylor': [
+  someSidebar: [
+      'dedication',
+    {
+    'Chicky Taylor Stories': [
       'chickytaylor/introduction',
       'chickytaylor/first-time',
       'chickytaylor/the-tunnel',
@@ -28,5 +30,5 @@ module.exports = {
     'Bands': [
       'bands/introduction',
     ],
-  },
+  },]
 };

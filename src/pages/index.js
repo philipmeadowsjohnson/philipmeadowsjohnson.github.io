@@ -55,9 +55,13 @@ function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
-    <div style={{height: '5000px', backgroundColor: 'black'}}>
-      &nbsp;
-    </div>
+      <div id="container">
+        <div style={{width: "100%", height: "100%"}}>
+          <form action="/docs/dedication">
+            <input type="submit" value="Hi" style={{backgroundColor: 'black', border: 'none', color: 'black'}}/>
+          </form>
+        </div>
+      </div>
   );
 }
 
