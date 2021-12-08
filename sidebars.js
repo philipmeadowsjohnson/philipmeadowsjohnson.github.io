@@ -2,7 +2,7 @@ module.exports = {
   someSidebar: [
       'dedication',
     {
-    'Chicky Taylor Stories': [
+    'Chicky Taylor Stories (1990-2000)': [
       'chickytaylor/introduction',
       'chickytaylor/first-time',
       'chickytaylor/the-tunnel',
@@ -12,8 +12,12 @@ module.exports = {
       'chickytaylor/ketchup',
       'chickytaylor/cookie-dough',
     ],
-    'Fall 2014': [
+    'Turkey, Thailand, Laos, New Zealand (2014)': [
       'fall14/introduction',
+      'fall14/suitcase-or-wheelie',
+      'fall14/ranger-rolling',
+      'fall14/first-stop',
+      'fall14/four-generations',
     ],
     'Bhutan': [
       'bhutan/introduction',
