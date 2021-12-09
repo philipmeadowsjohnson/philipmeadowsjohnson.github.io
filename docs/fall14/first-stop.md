@@ -3,9 +3,9 @@ title: "First Stop: Friends and Family"
 hide_table_of_contents: true
 ---
 
-import ImageGallery from 'react-image-gallery';
+import { MyGallery } from '../MyGallery';
 
-<ImageGallery additionalClass={"gallery-margin-bottom"} showPlayButton={false} items={[{original: '/img/fall14/first-stop.jpg'}]} />
+<MyGallery prefix="first-stop" suffix="jpg" num ={1} showThumbnails={false} />
 
 We took this picture from Cone Peak in Big Sur, California, after a “thrilling” one hour ride up the side of the mountain from sea level to 4,000 feet, followed by a relatively straightforward 90 minute hike to the summit.   This is only the most literal of the many peak experiences we’ve had in just our first few days on the road.
 

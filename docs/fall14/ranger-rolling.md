@@ -3,9 +3,9 @@ title: Ranger Rolling
 hide_table_of_contents: true
 ---
 
-import ImageGallery from 'react-image-gallery';
+import { MyGallery } from '../MyGallery';
 
-<ImageGallery additionalClass={"gallery-margin-bottom"} showPlayButton={false} items={[{original: '/img/fall14/ranger-rolling.jpg'}]} />
+<MyGallery prefix="ranger-rolling" suffix="jpg" num ={1} showThumbnails={false} />
 
 I did a lot of YouTube research this week on how to pack for trips.  I evaluated “[clown car packing](https://href.li/?https://www.youtube.com/watch?v=L5UlxHsgD58)“, how [Martha Stewart packs](https://href.li/?https://www.youtube.com/watch?v=yPRP-3GAn_0),  and several other less memorable videos, but what totally won me over was a series of videos on how to “ranger roll” your [shirts](https://href.li/?https://www.youtube.com/watch?v=so93nqxZLjM), [coats](https://href.li/?https://www.youtube.com/watch?v=drCw1--3Ko8), [pants](https://href.li/?https://www.youtube.com/watch?v=7vCo65e6pxE), [socks](https://href.li/?https://www.youtube.com/watch?v=uoHN4-0jw6A), and [towels](https://href.li/?https://www.youtube.com/watch?v=W4KJqWGa7eM).  What makes ranger rolling so awesome  is: (a) your stuff doesn’t get wrinkled; (b) each item remains separate; and (c) each item is compressed into a small volume.
 

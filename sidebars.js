@@ -18,6 +18,10 @@ module.exports = {
       'fall14/ranger-rolling',
       'fall14/first-stop',
       'fall14/four-generations',
+      'fall14/tea-sugar',
+      'fall14/verkin',
+      'fall14/cappadocia',
+      'fall14/call-to-prayer',
     ],
     'Bhutan': [
       'bhutan/introduction',

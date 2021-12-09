@@ -9,4 +9,4 @@ Unfortunately, that plan disintegrated just two months prior to lift off when we
 
 We needed a Plan B, and fast. What we came up with was a trip around the world: from Hawaii to California to New York to Turkey to Thailand to Laos to New Zealand and finally back to Hawaii. I would give lectures at universities along the way as part of the sabbatical experience.
 
-At the time, we created a WordPress blog as a way to letting friends and family know how the trip was going.  The following pages present our "dispatches" from this trip, and the comments that folks made as we travelled.
+At the time, we created a WordPress blog as a way to letting friends and family know how the trip was going.  The following pages present our "dispatches" from this trip, and the comments from our friends and family as we travelled.

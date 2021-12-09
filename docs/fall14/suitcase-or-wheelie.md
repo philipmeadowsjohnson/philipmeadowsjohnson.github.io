@@ -3,9 +3,9 @@ title: Suitcase or Wheelie
 hide_table_of_contents: true
 ---
 
-import ImageGallery from 'react-image-gallery';
+import { MyGallery } from '../MyGallery';
 
-<ImageGallery additionalClass={"gallery-margin-bottom"} showPlayButton={false} items={[{original: '/img/fall14/suitcase-or-wheelie.jpg'}]} />
+<MyGallery prefix="suitcase-or-wheelie" suffix="jpg" num ={1} showThumbnails={false} />
 
 Wheelie is better much of the time. But how much is “much”? And how bad is a wheelie the rest of the time?
 
