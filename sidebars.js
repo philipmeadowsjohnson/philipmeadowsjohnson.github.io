@@ -22,6 +22,12 @@ module.exports = {
       'fall14/verkin',
       'fall14/cappadocia',
       'fall14/call-to-prayer',
+      'fall14/fire-on-the-mountain',
+      'fall14/haircut',
+      'fall14/joanne',
+      'fall14/farewell-turkey',
+      'fall14/completely-different',
+      'fall14/mild',
     ],
     'Bhutan': [
       'bhutan/introduction',

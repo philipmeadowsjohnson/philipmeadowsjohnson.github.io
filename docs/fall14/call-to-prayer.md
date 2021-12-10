@@ -23,5 +23,5 @@ Our culinary guide from Istanbul told us that most Turkish  people are not obser
 
 I love hearing that recording. Its kind of soothing and a nice way to call a time out five times a day – just for one minute. (Gillian)
 
-love these photos… beautiful (Tamara)
+love these photos… beautiful (Doris Matsunaga)
 
