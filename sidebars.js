@@ -28,6 +28,10 @@ module.exports = {
       'fall14/farewell-turkey',
       'fall14/completely-different',
       'fall14/mild',
+      'fall14/ask',
+      'fall14/apocalypse',
+      'fall14/goodbye-asia',
+      'fall14/cousins',
     ],
     'Bhutan': [
       'bhutan/introduction',
