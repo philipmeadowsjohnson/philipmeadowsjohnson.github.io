@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkStraightToThePoolRoom=self.webpackChunkStraightToThePoolRoom||[]).push([[1477],{10:function(o){o.exports={blogPosts:[]}}}]);
