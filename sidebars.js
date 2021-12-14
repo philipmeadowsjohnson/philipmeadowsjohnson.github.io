@@ -35,7 +35,7 @@ module.exports = {
       'fall14/lotr',
       'fall14/south',
     ],
-    'Bhutan': [
+    'Bhutan (2018)': [
       'bhutan/introduction',
       'bhutan/bhutan1',
       'bhutan/bhutan2',

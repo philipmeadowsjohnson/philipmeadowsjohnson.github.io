@@ -1,5 +1,6 @@
 ---
 title: Introduction
+hide_table_of_contents: true
 ---
 
 As you may recall, our trip to Turkey, Thailand, Laos, and New Zealand was the result of a failed attempt to spend a sabbatical semester in Bhutan.
