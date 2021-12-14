@@ -32,9 +32,15 @@ module.exports = {
       'fall14/apocalypse',
       'fall14/goodbye-asia',
       'fall14/cousins',
+      'fall14/lotr',
+      'fall14/south',
     ],
     'Bhutan': [
       'bhutan/introduction',
+      'bhutan/bhutan1',
+      'bhutan/bhutan2',
+      'bhutan/bhutan3',
+      'bhutan/bhutan4',
     ],
     'Filks': [
       'filks/introduction',

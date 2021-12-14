@@ -5,10 +5,10 @@
 import React from 'react';
 import ImageGallery from 'react-image-gallery';
 
-export const MyGallery = ({prefix, num, suffix, showThumbnails = true}) => {
+export const MyGallery = ({prefix, num, suffix, showThumbnails = true, dir = 'fall14'}) => {
   const items = [];
   for (let i = 1; i <= num; i++) {
-    const file = `/img/fall14/${prefix}-${i}.${suffix}`;
+    const file = `/img/${dir}/${prefix}-${i}.${suffix}`;
     items.push({ original: file, thumbnail: file })
   }
   return (
