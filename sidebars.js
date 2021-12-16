@@ -51,6 +51,7 @@ module.exports = {
         'bands/filks',
       ],
       'Events': [
+        'events/doris-is-80',
         'events/doris-is-90',
         'events/jazzfest',
       ],

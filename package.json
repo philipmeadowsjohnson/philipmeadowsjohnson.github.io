@@ -26,7 +26,8 @@
     "url-loader": "^4.1.1",
     "react-youtube-embed": "^1.0.3",
     "react-image-gallery": "^1.2.7",
-    "react-gist": "^1.2.2"
+    "react-gist": "^1.2.2",
+    "react-player": "^2.9.0"
   },
   "browserslist": {
     "production": [
