@@ -23,11 +23,6 @@ Events
   * Katie's Bat Mitzvah,
   * Kahala Challenge
   * Happy Birthday Joanne  (Invite plus finished)
-  * JazzFest
-    * jazzfest review https://www.youtube.com/watch?v=WH0QmrslYA0
-    * P & J's first jazzfest https://www.youtube.com/watch?v=SIVOY6loHcs
-    * Summertime in New Orleans 
-    * My first video in iPhotos is Anders and galactic doing Ohio.
 
 Home Videos
   * Little Wing/Katie,
