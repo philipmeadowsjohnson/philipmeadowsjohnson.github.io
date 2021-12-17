@@ -5,11 +5,6 @@ Bands
     * TODO: Flyer, cassette tape recording? 
   * Mabanzi
     * TODO: Home video excerpt, bat mitzvah excerpt
-    * 6327, 6335, 6345, 6352, 6358, 6372, 6391, 6427, 6453
-  * Shakadown Street
-    * TODO: MySpace page screenshot, video clips
-  * HSJ
-    * TODO: Page screenshot
   * Learning to Phish
       * More
       * Tuesday
