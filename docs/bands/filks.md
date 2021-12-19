@@ -14,3 +14,5 @@ title: Filks
 
 ## Covid Computer Science Blues
 
+https://www.youtube.com/watch?v=e6t8pHaijOk
+
