@@ -52,8 +52,9 @@ module.exports = {
       ],
       'Events': [
         'events/doris-is-80',
-        'events/doris-is-90',
         'events/jazzfest',
+        'events/doris-is-90',
+        'events/larry-first-dead-show',
       ],
     },
     'videos',

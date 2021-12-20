@@ -7,6 +7,7 @@ import { MyGallery } from '../MyGallery';
 
 <MyGallery prefix="doris-90" suffix="jpg" num ={4} dir="events" />
 
+
 We celebrated Doris' 90th birthday in 2014 at her home in Naples.
 
 I composed a song for the occasion, to the tune of the Grateful Dead's Casey Jones:

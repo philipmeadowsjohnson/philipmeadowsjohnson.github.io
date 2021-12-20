@@ -5,11 +5,6 @@ Bands
     * TODO: Flyer, cassette tape recording? 
   * Mabanzi
     * TODO: Home video excerpt, bat mitzvah excerpt
-  * Learning to Phish
-      * More
-      * Tuesday
-      * Mountains in the Mist
-      * Ruby Waves
   * Filks
     * No Huli Kawai, Stroke It, Semi Century, ICS 111 Blues (Lyrics), Covid Blues, Dissertation Quesque c'est
 
