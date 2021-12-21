@@ -11,8 +11,12 @@ import YouTube from 'react-youtube-embed'
 
 ### Detroit, 1977
 
+In which I recount the sad story of Joanne, Larry, Dana and I arriving both on time and late to our first Grateful Dead show:
+
 <YouTube id="S2AEioJ9OYw"/>
 
 ### Daughters of the Deadheads
+
+In which Jenna, Katie, and Kalyani relate the 12 ways in which you know you are the daughter of a Deadhead:
 
 <YouTube id="uyX-Et0_y_0"/>

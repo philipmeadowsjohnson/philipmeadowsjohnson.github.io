@@ -9,14 +9,9 @@ Bands
     * No Huli Kawai, Stroke It, Semi Century, ICS 111 Blues (Lyrics), Covid Blues, Dissertation Quesque c'est
 
 Events
-  * Larry's 1st Dead Show Anniversary
-    * 11/1/77 https://www.youtube.com/watch?v=S2AEioJ9OYw
-    * Daughters of the deadheads (https://www.youtube.com/watch?v=uyX-Et0_y_0)
-  * Doris is 80,
   * Doris is 90 
     * TODO: record the song? 
   * Katie's Bat Mitzvah,
-  * Kahala Challenge
   * Happy Birthday Joanne  (Invite plus finished)
 
 Home Videos
