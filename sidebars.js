@@ -61,7 +61,8 @@ module.exports = {
     'videos',
     {
       'Miscellaneous': [
-        'misc/introduction',
+        'misc/philip-early-years',
+        'misc/pbj',
       ],
     },
   ],

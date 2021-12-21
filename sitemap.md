@@ -23,7 +23,6 @@ Home Videos
   * Misc from the hard drive
 
 Misc
-  * Philip's Early Years
   * 50 Memories essays
   * How to make a PB & J https://www.youtube.com/watch?v=Mbfn6LYm6Ek
   * Pressure wash Buddha
