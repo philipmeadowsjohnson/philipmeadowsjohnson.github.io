@@ -56,6 +56,7 @@ module.exports = {
         'events/kahala-challenge',
         'events/doris-is-90',
         'events/larry-first-dead-show',
+        'events/joanne-birthday',
       ],
     },
     'videos',
