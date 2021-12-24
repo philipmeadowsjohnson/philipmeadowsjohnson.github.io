@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkStraightToThePoolRoom=self.webpackChunkStraightToThePoolRoom||[]).push([[4195],{2841:function(t,e,o){o.r(e);var n=o(7294);e.default=function(){return n.createElement("form",{action:"/docs/motivation"},n.createElement("input",{type:"submit",value:"",style:{height:"100px",width:"100px",backgroundColor:"transparent",border:"none"}}))}}}]);
