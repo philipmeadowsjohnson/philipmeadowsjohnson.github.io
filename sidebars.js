@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: [
-    'dedication',
+    'motivation',
     {
       'Chicky Taylor Stories (1990-2000)': [
         'chickytaylor/introduction',
@@ -42,28 +42,31 @@ module.exports = {
         'bhutan/bhutan3',
         'bhutan/bhutan4',
       ],
-      'Bands': [
-        'bands/east-west-journal',
-        'bands/mabanzi',
-        'bands/shakadown',
-        'bands/hsj',
-        'bands/phish',
-        'bands/filks',
+      'Music': [
+        'music/east-west-journal',
+        'music/mabanzi',
+        'music/shakadown',
+        'music/hsj',
+        'music/phish',
+        'music/filks',
       ],
       'Events': [
         'events/doris-is-80',
         'events/jazzfest',
         'events/kahala-challenge',
+        'events/katie-bat-mitzvah',
         'events/doris-is-90',
         'events/larry-first-dead-show',
         'events/joanne-birthday',
       ],
     },
-    'videos',
     {
       'Miscellaneous': [
+        'misc/videos',
         'misc/philip-early-years',
+        'misc/naples',
         'misc/pbj',
+        'misc/momma-married-a-deadhead',
       ],
     },
   ],
