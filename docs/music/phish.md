@@ -7,9 +7,14 @@ One of the few bright spots of the pandemic for Joanne and I was the forty or so
 
 Given that I wasn't getting together with my usual musical suspects during this time, I made a few YouTube videos as a way to motivate myself to learn Phish tunes.  Here's a selection:
 
-### More
-
 import YouTube from 'react-youtube-embed'
+
+### Wading in the Velvet Sea
+
+<YouTube id="NJnr4U3uW0o"/>
+
+
+### More
 
 <YouTube id="l7amINKAwbs"/>
 
